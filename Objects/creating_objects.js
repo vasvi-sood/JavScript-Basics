@@ -1,5 +1,5 @@
 
-const personal_info
+const personal_info=
 {
 	name: `Vasvi`,
 	year: 2,
